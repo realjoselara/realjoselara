@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jose, I'm from New Jersey and I'm a SWE.
+My name is Jose, I'm from New Jersey and I'm a Software Engineer.
 
 ## Skills
 
