@@ -5,10 +5,10 @@ My name is Jose, I'm from New Jersey and I'm a Software Engineer.
 ## Skills
 
 * AWS, Terraform, Docker, all the cloud stuff :) 
-* Critical thinking, decision-making and problem solving skills
-* Python, Javascript, .NET (C#, ASP.NET Core), Java (Spring Boot, Spring Data)
+* Critical thinking, decision-making and problem solving skills.
+* Java (Spring Boot, Spring Data), Python, Javascript, .NET (C#, ASP.NET Core).
 * Cloud Services, worked with Azure (VMs, WebApp, ADF, Azure Database, Blob Storage) and AWS (EC2, Lightsail, RDS, S3).
-* Exposure to Infrastructure as code with terraform and Ansible.
+* Experience with Infrastructure as code with terraform and Ansible.
 
 ## Contact
 
